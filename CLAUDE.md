@@ -13,6 +13,10 @@
 - **内容:** 一般常識クイズアプリ
 - **技術スタック:** HTML / CSS / JavaScript（フレームワーク・ビルドツールなし）
 
+## GitHubリポジトリ
+
+https://github.com/nrbt39-rgb/quiz-app
+
 ## ディレクトリ構成
 
 ```
